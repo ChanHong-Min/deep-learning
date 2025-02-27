@@ -6,7 +6,7 @@ This project consists of multiple Python scripts, each covering different machin
 
 ## 📂 File Descriptions
 
-### 1️⃣ [`hw2.py`](hw2.py)
+### 1️⃣ [`hw2.py`](hw2/hw2.py)
 - **Description:** Solving a multi-class classification problem using a softmax classifier.
 - **Key Concepts:** 
   - Cross-entropy loss function
@@ -26,7 +26,7 @@ This project consists of multiple Python scripts, each covering different machin
 
 ---
 
-### 3️⃣ [`hw4.py`](hw4.py)
+### 3️⃣ [`hw4.py`](hw4/hw4.py)
 - **Description:** Implementation of key components of a Convolutional Neural Network (CNN).
 - **Key Concepts:** 
   - `view_as_windows`: Transforming input tensors using sliding windows
@@ -35,7 +35,7 @@ This project consists of multiple Python scripts, each covering different machin
 
 ---
 
-### 4️⃣ [`hw5.py`](hw5.py)
+### 4️⃣ [`hw5.py`](hw5/hw5.py)
 - **Description:** Image classification model using the MNIST dataset.
 - **Key Concepts:** 
   - Loading data from `keras.datasets.mnist`
@@ -44,7 +44,7 @@ This project consists of multiple Python scripts, each covering different machin
 
 ---
 
-### 5️⃣ [`hw7.py`](hw7.py)
+### 5️⃣ [`hw7.py`](hw7/hw7.py)
 - **Description:** Transformer-based sentiment analysis model.
 - **Key Concepts:** 
   - Multi-head attention (`MultiHeadAttention`)
